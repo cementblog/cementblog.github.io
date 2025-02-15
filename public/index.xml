@@ -6,21 +6,14 @@
     <description>Recent content on Green Cement Facts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 10:37:22 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 12:13:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 15 Feb 2025 10:37:22 -0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;#Green cement post&lt;/p&gt;&#xA;&lt;p&gt;##Heading&#xA;general idea&#xA;###Subheading&#xA;some more stuff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Feb 2025 10:22:20 -0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;h3 id=&#34;more-details&#34;&gt;More details&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m curious how this works.&lt;/p&gt;</description>
+      <title>SCM</title>
+      <link>http://localhost:1313/posts/scm/</link>
+      <pubDate>Sat, 15 Feb 2025 12:13:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/scm/</guid>
+      <description>&lt;h1 id=&#34;the-role-of-supplementary-cementitious-materials-scms-in-modern-construction&#34;&gt;The Role of Supplementary Cementitious Materials (SCMs) in Modern Construction&lt;/h1&gt;&#xA;&lt;p&gt;In the realm of construction, cement stands as one of the most critical components for creating durable and sustainable structures. However, traditional Portland cement production has been associated with significant environmental impacts due to its carbon-intensive nature. This is where supplementary cementitious materials (SCMs) play a transformative role by enhancing performance while reducing environmental footprints.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-supplementary-cementitious-materials&#34;&gt;What are Supplementary Cementitious Materials?&lt;/h2&gt;&#xA;&lt;p&gt;Supplementary Cementitious Materials, or SCMs, refer to various by-products and waste materials that can be added to concrete to partially replace Portland cement. These materials not only contribute to the strength and durability of concrete but also play a crucial role in making construction more sustainable.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

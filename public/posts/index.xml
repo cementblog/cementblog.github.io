@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Green Cement Facts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 10:37:22 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 12:13:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCM</title>
+      <link>http://localhost:1313/posts/scm/</link>
+      <pubDate>Sat, 15 Feb 2025 12:13:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/scm/</guid>
+      <description>&lt;h1 id=&#34;the-role-of-supplementary-cementitious-materials-scms-in-modern-construction&#34;&gt;The Role of Supplementary Cementitious Materials (SCMs) in Modern Construction&lt;/h1&gt;&#xA;&lt;p&gt;In the realm of construction, cement stands as one of the most critical components for creating durable and sustainable structures. However, traditional Portland cement production has been associated with significant environmental impacts due to its carbon-intensive nature. This is where supplementary cementitious materials (SCMs) play a transformative role by enhancing performance while reducing environmental footprints.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-supplementary-cementitious-materials&#34;&gt;What are Supplementary Cementitious Materials?&lt;/h2&gt;&#xA;&lt;p&gt;Supplementary Cementitious Materials, or SCMs, refer to various by-products and waste materials that can be added to concrete to partially replace Portland cement. These materials not only contribute to the strength and durability of concrete but also play a crucial role in making construction more sustainable.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>

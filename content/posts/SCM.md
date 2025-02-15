@@ -1,6 +1,6 @@
 +++
 date = '2025-02-15T12:13:00-08:00'
-draft = true
+draft = false
 title = 'SCM'
 +++
 # The Role of Supplementary Cementitious Materials (SCMs) in Modern Construction
