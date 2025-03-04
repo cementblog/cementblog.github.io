@@ -27,7 +27,7 @@ It's kind of a nice idea to extract both cement and alumina from a single feedst
 
 The goal of reshoring aluminum production has been explored to death in the past, such as processing coal fly ash, which was often free, higher in aluminum content, and easier to process than basalt and similar rocks. [Alumina from fly ash was also proposed in conjunction with cement production as early as 1977](https://www.osti.gov/biblio/6574483), maybe earlier? Also, the challenge isn’t just "is it technically possible" but cost-effectiveness at scale wins every time.
 
-![Not a new idea to get alumina from other domestic sources](images/1977-alumina-flyash.JPG)  
+![Not a new idea to get alumina from other domestic sources](/images/1977-alumina-flyash.JPG)  
 As you'll note in this image from a 1977 Ames Laboratory report *"Alumina from Fly Ash,"* there are many better domestic alumina mineral sources in the "uneconomic" category before resorting to Brimstone's rock choice of basalt (which they want for the small amount of calcium in it). For example, relatively pure kaolinite clay has about 30-40% alumina content vs. basalt at 10-15%. That's a big deal for economics if alumina is actually the goal. I'm not sure it's such a win to try and make both cement and alumina at the same time from common silicate minerals...
 
 ---
