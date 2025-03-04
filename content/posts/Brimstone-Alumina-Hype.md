@@ -2,7 +2,7 @@
 
 ## Brimstone's Alumina Story: A Game-Changer or Just Another Hype Cycle?
 
-[Original article here](https://www.dcvc.com/news-insights/in-a-deep-tech-twofer-brimstone-aims-to-secure-u-s-aluminum-supply/) Another hype piece written by an investor in Brimstone, DCVC, highlighting the company's recent pivot away from decarbonizing cement and toward whatever terminal form of optimism this is, involving the alumina industry. I assume this move comes as the Trump administration promises to cancel anything climate, and Brimstone feel their exorbitant $189M federal funding is vulnerable to cancellation on a whim if their project looks too "green". Hence the pivot to strategic national supply chain for alumina. 
+[Another hype piece](https://www.dcvc.com/news-insights/in-a-deep-tech-twofer-brimstone-aims-to-secure-u-s-aluminum-supply/) written by an investor in Brimstone, DCVC, highlighting the company's recent pivot away from decarbonizing cement and toward whatever terminal form of optimism this is, involving the alumina industry. I assume this move comes as the Trump administration promises to cancel anything climate, and Brimstone feel their exorbitant $189M federal funding is vulnerable to cancellation on a whim if their project looks too "green". Hence the pivot to strategic national supply chain for alumina. 
 Why do I feel the need to comment on this? I think it's the blend of arrogance and lack of acknowledgment of similar past efforts that bothers me. A blend of savior complex and beginner mindset. Let's get into specifics:
 
 ### From the article:
